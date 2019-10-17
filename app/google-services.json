@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "194195391127",
+    "firebase_url": "https://walkinclinicv01.firebaseio.com",
+    "project_id": "walkinclinicv01",
+    "storage_bucket": "walkinclinicv01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194195391127:android:a072cc48afd8c90e2b9fd2",
+        "android_client_info": {
+          "package_name": "com.example.walkinclinicv01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194195391127-69lkvsdjqgamknktb7ua88i402ou31b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtMfdG1xXYbgJXeg_nTCazgwx_viRGhFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194195391127-69lkvsdjqgamknktb7ua88i402ou31b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

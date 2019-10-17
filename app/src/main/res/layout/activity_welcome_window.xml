@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <RelativeLayout
+    tools:context=".WelcomeWindow"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools" xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <LinearLayout
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:background="#54B3E5FC">
+
+    <Space
+        android:layout_height="219dp"
+        android:layout_width="match_parent"
+        />
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:textSize="24sp"
+        android:text="Welcome, "
+        android:gravity="center"
+        android:id="@+id/welcomeMessage"/>
+
+    <Space
+        android:layout_height="30dp"
+        android:layout_width="match_parent"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:textSize="24sp"
+        android:text="You are logged in as a"
+        android:gravity="center"
+        android:id="@+id/loginSpefication"/>
+
+</LinearLayout>
+
+</RelativeLayout>
